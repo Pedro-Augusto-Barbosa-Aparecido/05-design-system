@@ -28,3 +28,6 @@ export interface TooltipProviderProps
 export function TooltipProvider({ children, ...rest }: TooltipProviderProps) {
   return <TooltipRadix.Provider {...rest}>{children}</TooltipRadix.Provider>;
 }
+
+Tooltip.displayName = "Tooltip";
+TooltipProvider.displayName = "TooltipProvider";

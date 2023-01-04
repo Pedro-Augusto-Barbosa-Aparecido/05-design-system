@@ -46,3 +46,6 @@ export function ToastProvider({ children, ...rest }: ToastProviderProps) {
     </ToastRadix.Provider>
   );
 }
+
+Toast.displayName = "Toast";
+ToastProvider.displayName = "ToastProvider";

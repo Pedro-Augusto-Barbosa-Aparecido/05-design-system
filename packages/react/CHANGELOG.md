@@ -1,5 +1,11 @@
 # @taurus-ui/react
 
+## 5.0.0
+
+### Major Changes
+
+- Add Toast and Tooltip Components
+
 ## 4.0.0
 
 ### Major Changes
