@@ -1,5 +1,11 @@
 # @taurus-ui/tokens
 
+## 5.0.0
+
+### Major Changes
+
+- test new color
+
 ## 4.0.0
 
 ### Major Changes
