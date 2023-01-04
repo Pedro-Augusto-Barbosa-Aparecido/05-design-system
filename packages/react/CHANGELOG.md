@@ -1,5 +1,11 @@
 # @taurus-ui/react
 
+## 5.1.0
+
+### Minor Changes
+
+- change font family tooltip
+
 ## 5.0.0
 
 ### Major Changes

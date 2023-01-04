@@ -24,6 +24,7 @@ const slideLeftAndFade = keyframes({
 export const TooltipContainer = styled(Tooltip.Root, {});
 
 export const TooltipContent = styled(Tooltip.Content, {
+  fontFamily: "$default",
   borderRadius: "$sm",
   padding: "$3 $4",
   fontSize: "$sm",
