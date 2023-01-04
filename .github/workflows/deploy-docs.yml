@@ -2,11 +2,11 @@ name: Deploy docs
 
 on:
   push:
-    branches:
-      - master
+    tags: ["*"]
 
 jobs:
   build-add-deploy:
+    if: startsWith(github.ref, 'refs/tags/v')
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

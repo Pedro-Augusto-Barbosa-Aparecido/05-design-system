@@ -2,13 +2,13 @@ name: Release
 
 on:
   push:
-    branches:
-      - master
+    tags: ["*"]
 
 concurrency: ${{ github.workflow }}-${{ github.ref }}
 
 jobs:
   release:
+    if: startsWith(github.ref, 'refs/tags/v')
     name: Release
     runs-on: ubuntu-latest
     steps:
