@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@ignite-ui/ts-config",
-  "version": "1.0.0",
+  "name": "@taurus-ui/ts-config",
+  "version": "4.0.0",
   "license": "MIT"
 }

@@ -1,6 +1,6 @@
 {
-  "name": "@ignite-ui/tokens",
-  "version": "1.0.0",
+  "name": "@taurus-ui/tokens",
+  "version": "4.0.0",
   "description": "",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -15,8 +15,8 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "@ignite-ui/ts-config": "*",
-    "@ignite-ui/eslint-config": "*",
+    "@taurus-ui/ts-config": "*",
+    "@taurus-ui/eslint-config": "*",
     "tsup": "^6.5.0",
     "typescript": "^4.9.4"
   }
