@@ -29,6 +29,11 @@ export default {
         type: null,
       },
     },
+    trigger: {
+      control: {
+        type: null,
+      },
+    },
   },
   decorators: [
     (story) => {
