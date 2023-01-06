@@ -1,2 +1,0 @@
-import{d as o,T as e,e as s}from"./index.416c47e6.js";import{j as r}from"./jsx-runtime.2c40f48a.js";import"./index.77e1f81e.js";import"./iframe.429f048e.js";import"./index.7a146d40.js";const c={title:"Surfaces/Toast",component:o,args:{children:r(e,{children:"Toast message demo"}),title:"Example Toast"},argTypes:{children:{control:{type:null}}},decorators:[t=>r(s,{children:t()})]},d={args:{open:!0}},l=["Primary"];export{d as Primary,l as __namedExportsOrder,c as default};
-//# sourceMappingURL=Toast.stories.f040c51c.js.map

@@ -1,2 +1,0 @@
-import{A as t}from"./index.416c47e6.js";import"./index.77e1f81e.js";import"./iframe.429f048e.js";import"./index.7a146d40.js";import"./jsx-runtime.2c40f48a.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://avatars.githubusercontent.com/u/77130441?v=4",alt:"Pedro Augusto"},argTypes:{src:{control:{type:"text"}}}},e={},l={args:{src:void 0,alt:"With Fallback"}},p=["Primary","WithFallback"];export{e as Primary,l as WithFallback,p as __namedExportsOrder,c as default};
-//# sourceMappingURL=Avatar.stories.47c4719b.js.map
